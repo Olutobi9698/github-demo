@@ -11,15 +11,17 @@ h1{
     text-align: center;
 }
 
-#p2{
+p{
     display: flex;
     color: white;
 }
 
-#p1-img{
-    image-rendering: pixelated;
-    height: 300px;
-    width: 300px;
+.p1-img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 30%;
+
 }
 
 .mynav{
